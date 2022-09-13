@@ -492,7 +492,7 @@ progress {
   right: 40px;
   border-radius: 50%;
   overflow: hidden;
-  margin-top: -1cpx;
+  margin-top: -1px;
 }
 
 .lead {
